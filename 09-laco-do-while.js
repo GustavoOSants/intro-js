@@ -29,4 +29,4 @@ do {
     nome = prompt("Digite seu nome: ")
 } while (nome === null || nome.trim() === "");
 
-alert(`Olá, ${nome}`)
+alert(`Olá, ${nome}`);
